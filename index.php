@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/style.css">
     <title>Login</title>
 </head>
 <body>
@@ -165,13 +165,13 @@
 
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="1126213.jpg" alt="Power" class="d-block w-100">
+      <img src="img/1126213.jpg" alt="Power" class="d-block w-100">
     </div>
     <div class="carousel-item">
-      <img src="miku-nakano-nawpic.png" alt="Miku" class="d-block w-100">
+      <img src="img/miku-nakano-nawpic.png" alt="Miku" class="d-block w-100">
     </div>
     <div class="carousel-item">
-      <img src="tumblr_503e3325334861190edfcf9fd17706ac_0a24d636_540.gif" alt="Albedo" class="d-block w-100">
+      <img src="img/tumblr_503e3325334861190edfcf9fd17706ac_0a24d636_540.gif" alt="Albedo" class="d-block w-100">
     </div>
   </div>
 
